@@ -1,2 +1,2 @@
 # CharitableDonationSystem
-A  javafx application for basic donation
+A  Javafx application for basic donation
