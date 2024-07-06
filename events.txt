@@ -1,0 +1,10 @@
+Event Name: UIU
+Event Place: UIU
+Event Time: 7.30 AM
+Event Description: Khela hobe
+
+Event Name: Gala
+Event Place: UIU
+Event Time: 7.30 pm
+Event Description: Dresscode- Formal
+
